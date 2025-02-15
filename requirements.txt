@@ -4,3 +4,4 @@ pynacl
 fake-useragent
 colorama
 pytz
+aiohttp_socks
